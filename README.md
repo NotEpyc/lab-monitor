@@ -1,16 +1,48 @@
-# lab_monitor
+<p align="center">
+  <img src="assets/icons/app_icon.png" alt="LabMonitor Logo" width="120" style="border-radius: 50px;" />
+</p>
 
-A new Flutter project.
+<h1 align="center">Lab Monitor – Computer Laboratory Management System</h1>
 
-## Getting Started
+**Lab Monitor** is a Flutter-based mobile application built to streamline the management and monitoring of computer laboratories. It empowers system administrators with real-time control over multiple workstations, offering process insights, remote commands, and efficient batch operations — all from a clean, responsive UI.
 
-This project is a starting point for a Flutter application.
+---
 
-A few resources to get you started if this is your first Flutter project:
+## 📌 Overview
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Lab Monitor provides centralized oversight of computer lab systems with secure access and interactive tools for managing each system’s status, processes, and resources. Ideal for school and college labs, IT training centers, and similar setups.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+## 🚀 Core Features
+
+### 🔐 Authentication & Security
+- Secure login system
+- Role-based access control (Admin only)
+- Protected administrative controls for sensitive actions
+
+### 🖥️ System Management
+- Real-time monitoring of all connected systems
+- Track individual system status (online/offline)
+- View CPU and memory usage
+- Manage and view active processes on each system
+
+### 🛠️ Administrative Controls
+- Remote **shutdown** and **restart** of individual systems
+- **Batch operations**: shutdown/restart all systems with one tap
+- Individual process termination
+- Visual feedback with **custom animated notifications**
+
+### 🎨 User Interface
+- Built with Flutter and Material Design
+- Portrait mode optimized layout
+- Responsive grid view of connected systems
+- Process management cards with action buttons
+- Custom animated alerts and notifications
+
+---
+
+## 📱 Screenshots
+<p float="left">
+  <img src="assets/screenshots/LabMonitor.jpg" width="100%" />
+</p>
