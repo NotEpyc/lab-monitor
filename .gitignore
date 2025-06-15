@@ -116,4 +116,16 @@ coverage/
 lib/config/secrets.dart
 lib/utils/api_keys.dart
 assets/config/credentials.json
+
+# Assets and Images
 assets/images/
+*.jpg
+*.jpeg
+*.png
+*.gif
+*.ico
+*.svg
+*.webp
+*.bmp
+*.tiff
+*.raw
