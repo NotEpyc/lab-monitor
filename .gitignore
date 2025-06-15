@@ -116,3 +116,4 @@ coverage/
 lib/config/secrets.dart
 lib/utils/api_keys.dart
 assets/config/credentials.json
+assets/images/
